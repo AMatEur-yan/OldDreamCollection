@@ -1,121 +1,122 @@
 body {
     color: dimgray;
-    height: 95vh;
+/*     height: 95vh; */
+    height: 105.5vh;
     font-family: "Times New Roman", Times, serif;
 }
 
 .background-1{
     background-image: url("./pic/Q1.png");
-    background-size: cover;
+    background-size: contain;
 }
 
 .background-2{
 
     background-image: url("./pic/Q1A1.png");
-    background-size: cover;
+    background-size: contain;
 }
 
 .background-3{
     background-image: url("./pic/Q1A2.png");
-    background-size: cover;
+    background-size: contain;
 }
 
 .background-4{
     background-image: url("./pic/Q2A1.png");
-    background-size: cover;
+    background-size: contain;
 }
 
 .background-5{
     background-image: url("./pic/Q2A2.png");
-    background-size: cover;
+    background-size: contain;
 }
 
 .background-6{
     background-image: url("./pic/Q2A3.png");
-    background-size: cover;
+    background-size: contain;
 }
 
 .background-7{
     background-image: url("./pic/Q2A4.png");
-    background-size: cover;
+    background-size: contain;
 }
 
 .background-8{
     background-image: url("./pic/Q3A1.png");
-    background-size: cover;
+    background-size: contain;
 }
 
 .background-9{
     background-image: url("./pic/Q3A2.png");
-    background-size: cover;
+    background-size: contain;
 }
 
 .background-10{
     background-image: url("./pic/Q3A3.png");
-    background-size: cover;
+    background-size: contain;
 }
 
 .background-11{
     background-image: url("./pic/Q3A4.png");
-    background-size: cover;
+    background-size: contain;
 }
 
 .background-12{
     background-image: url("./pic/Q3A5.png");
-    background-size: cover;
+    background-size: contain;
 }
 
 .background-13{
     background-image: url("./pic/Q3A6.png");
-    background-size: cover;
+    background-size: contain;
 }
 
 .background-14{
     background-image: url("./pic/Q3A7.png");
-    background-size: cover;
+    background-size: contain;
 }
 
 .background-15{
     background-image: url("./pic/Q3A8.png");
-    background-size: cover;
+    background-size: contain;
 }
 
 .background-16{
     background-image: url("./pic/Q4A1.png");
-    background-size: cover;
+    background-size: contain;
 }
 
 .background-17{
     background-image: url("./pic/Q4A2.png");
-    background-size: cover;
+    background-size: contain;
 }
 .background-18{
     background-image: url("./pic/Q4A3.png");
-    background-size: cover;
+    background-size: contain;
 }
 
 .background-19{
     background-image: url("./pic/Q4A4.png");
-    background-size: cover;
+    background-size: contain;
 }
 
 .background-20{
     background-image: url("./pic/Q4A5.png");
-    background-size: cover;
+    background-size: contain;
 }
 
 .background-21{
     background-image: url("./pic/Q4A6.png");
-    background-size: cover;
+    background-size: contain;
 }
 
 .background-22{
     background-image: url("./pic/Q4A7.png");
-    background-size: cover;
+    background-size: contain;
 }
 .background-23{
     background-image: url("./pic/Q4A8.png");
-    background-size: cover;
+    background-size: contain;
 }
 .background-24{
     background-color: snow;
